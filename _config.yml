@@ -18,7 +18,7 @@ description: "Art and ideas of RK Tandon" # This will show up in places like twi
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "minimal"
 
 rss: rss
 
